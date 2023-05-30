@@ -5,7 +5,7 @@
       "title": "Turquia - Mundo Sem Fim",
       "year": 2020,
       "description": "Renan, Michele e Mucuvinha, um casal e um macaquinho de pelúcia se aventura na Turquia",
-      "photo": "https://image.tmdb.org/t/p/w300/zJcjdAJEfTjFbMXiQmHzDilKS1M.jpg?x93679",
+      "photo": "https://raw.githubusercontent.com/brayanlearn/playlist-api/main/src/turquia.jpg",
       "url": "https://youtube.com/playlist?list=PLGs65oMU2n0NeeG_p18kGt1pqRQlkHERW"
     },
     {
@@ -13,7 +13,7 @@
       "title": "China - Mundo Sem Fim",
       "year": 2019,
       "description": "Renan, Michele e Mucuvinha, um casal e um macaquinho de pelúcia se aventura na China.",
-      "photo": "https://image.tmdb.org/t/p/w300/kSa4oTQmI9EhYK3g7RQcUigGWCc.jpg?x93679",
+      "photo": "https://raw.githubusercontent.com/brayanlearn/playlist-api/main/src/china.jpg",
       "url": "https://youtube.com/playlist?list=PLGs65oMU2n0MWIt5wJd3O_GwyHIKBaffW"
     },
     {
@@ -21,7 +21,7 @@
       "title": "Rússia - Mundo Sem Fim",
       "year": 2021,
       "description": "Un grupo de astronautas se encuentran en una estación espacial. Tae Ho es un piloto de la nave ‘Spaceship Victory’ en la que la Capitana, Park Tigre y el robot son parte de la tripulación.",
-      "photo": "https://image.tmdb.org/t/p/w300/vOefWMYqC1S3aiCTD5MD8HeXl0Y.jpg?x93679",
+      "photo": "https://raw.githubusercontent.com/brayanlearn/playlist-api/main/src/russia.jpg",
       "url": "https://youtube.com/playlist?list=PLGs65oMU2n0NTZh5ly20JvKIOqOyY7YV7"
     }
   ],
@@ -31,7 +31,7 @@
       "title": "Estou com sorte - Cadê a chave?",
       "year": 2022,
       "description": "Nilce e Leon saem por aí experimentando restaurantes e contando a história dos pratos!",
-      "photo": "https://image.tmdb.org/t/p/w300/lgfrROqEoYff8wA7vURs1f5qsPA.jpg?x93679",
+      "photo": "https://raw.githubusercontent.com/brayanlearn/playlist-api/main/src/estou_com_sorte.jpg",
       "url": "https://youtube.com/playlist?list=PLZ1moeoh2N0N-DIug2iSucniWqoBy2KlV"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Quem Sabe Mais - Cadê a chave?",
       "year": 2022,
       "description": "Nilce e Leon querendo saber quem sabe mais sobre determinado assunto",
-      "photo": "https://image.tmdb.org/t/p/w300/gxPJZuIBeesHi5gkxtvvXboJ420.jpg?x93679",
+      "photo": "https://raw.githubusercontent.com/brayanlearn/playlist-api/main/src/quem_sabe_mais.jpg",
       "url": "https://youtube.com/playlist?list=PLZ1moeoh2N0N-DIug2iSucniWqoBy2KlV"
     },
     {
@@ -47,7 +47,7 @@
       "title": "itália - Cadê a chave?",
       "year": 2018,
       "description": "Leon e Nilce vão a Itália",
-      "photo": "https://image.tmdb.org/t/p/w300/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg?x93679",
+      "photo": "https://raw.githubusercontent.com/brayanlearn/playlist-api/main/src/italia.jpg",
       "url": "https://youtube.com/playlist?list=PLZ1moeoh2N0Nf28cb-sFttBWIgvPTFn1K"
     }
   ]
